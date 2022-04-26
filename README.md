@@ -1,4 +1,4 @@
-# ALCA_DISE-O_Y_ESTILOS
+# ALCA_DISEÑO_Y_ESTILOS
 Trabajo realizado por Yeimmy Katherin Lugo Mora, Juan Sebastian Girardot Antonio, David Santiago Buitrago Acuña, Daniel Sanchez.
 # Proyecto-final---1er-trimestre 
 Integrantes: 
